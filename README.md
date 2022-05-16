@@ -10,7 +10,7 @@ A Detail-Oriented Engineering Student and a fresher looking for an opportunity t
 * ✉️  You can contact me at [izazhossain2120@gmail.com](mailto:izazhossain2120@gmail.com)
 * 🧠  I'm learning Avanced level Javascript and SCSS ,React Js and MySQL
 * 🤝  I'm open to collaborating on I am very much interested in working on Fronted Projects and the projects related to React Js.
-* ⚡  Hey ,I am a Aksidental Engineer. But don't tell anyone.
+* ⚡  Hey ,I am a Akcidental Engineer. But don't tell anyone.
 
 <a href="https://www.github.com/IzazHussain" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/IzazHussain?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
