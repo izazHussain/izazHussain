@@ -48,4 +48,4 @@ src="https://img.shields.io/github/followers/IzazHussain?logo=github&style=for-t
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/Izazul Haque"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/izazhossaiL"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
